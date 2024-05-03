@@ -3,7 +3,7 @@
 
 <p>I'm currently undergoing retraining (Umschulung) at the Macromedia Academy in Stuttgart, focusing on IT specialist for application development (Fachinformatiker für Anwendungsentwicklung). Having previously received training in programming, I'm now deepening my knowledge and skills to further my expertise. I'm eager to explore new technologies and apply them to real-world projects.</p>
 
-- 🔭 I’m currently working on <a href="https://github.com/NiyaziGumus/expense-tracker-app">expense-tracker-app</a> as a hands-on project to enhance my full-stack development skills, utilizing React and Tailwind CSS, alongside Node.js and MongoDB.
+- 🔭 I’m currently working on <a href="https://github.com/NiyaziGumus/CppExercisesSolutions">CppExercisesSolutions</a>, a project where I tackle various C++ exercises to sharpen my problem-solving skills and deepen my understanding of programming concepts.
 
 
 <h3 align="left">Featured Projects:</h3>
